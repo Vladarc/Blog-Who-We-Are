@@ -13,6 +13,10 @@ background-color: #b07cf7
 img{
 max-width: 100%;
 }
+.text-default-center{
+color: #fff;
+text-align: center;
+}
 h2,
 .blog-news__description--author
 {
@@ -45,12 +49,10 @@ margin: 0 auto;
 }
 
 header{
-text-align: center;
 padding: 10px;
 margin-bottom: 30px;
-color: #fff;
 }
-header p{
+.title{
 margin: 0 auto;
 max-width: 575px;
 font-size: 1.7rem;
